@@ -1,6 +1,8 @@
 # Calculadora Python
 
-Una calculadora con interfaz gráfica desarrollada en Python utilizando Tkinter. Simple de usar, intuitiva y perfecta para aprender sobre interfaces gráficas en Python.
+Una calculadora con interfaz gráfica desarrollada en Python utilizando Tkinter.
+
+![Image_alt](https://github.com/FedeJGM/Calculadora-Python/blob/84205c7099b8a1905f69e4784940ec6af28a213f/assets/calculadora.png)
 
 ## Características
 
